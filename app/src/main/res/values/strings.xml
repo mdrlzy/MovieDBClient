@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MovieDB Client</string>
+    <string name="not_found_template">По запросу &quot;%1$s&quot; ничего не найдено</string>
+</resources>
